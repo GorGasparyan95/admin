@@ -16,7 +16,6 @@ const AdminMenu = ({ setMenu }) => {
            <button name='dashboard' onClick={handleClick}>Dashboard</button>
            <button name='management' onClick={handleClick} >User management</button>
            <button name='graphDirectory' onClick={handleClick}>Graph Directory</button>
-           <button name="analytics" onClick={handleClick}>Graph analytics</button>
             </div>
         </div>
     )

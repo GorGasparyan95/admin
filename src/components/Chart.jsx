@@ -69,7 +69,7 @@ const Chart = () => {
         <div className='chart_wrap'>
             <Line 
             style={{
-                height: 338,
+                height: 320,
                 padding: "16px 20px"
             }} options={options} data={data}
             />
